@@ -72,7 +72,22 @@ Skills define _how_ tools work. This file is _my_ specifics — the stuff that's
 - **gog (Google Workspace):** `~/.openclaw/skills/gog/SKILL.md`
 - **weather:** `~/.openclaw/skills/weather/SKILL.md`
 - **himalaya (email):** `~/.openclaw/skills/himalaya/SKILL.md`
+- **stripe-best-practices:** `~/.openclaw/workspace/skills/stripe-best-practices/SKILL.md`
+- **notion:** `~/.openclaw/workspace/skills/notion/SKILL.md`
 - **+ 20+ more** — check `~/.openclaw/skills/`
+
+## 📱 Dashboard
+
+- **Location:** `~/.openclaw/workspace/dashboard/index.html`
+- **Quick access:** Open in browser
+- **Features:** Agent status, tasks, system health, quick links
+- **Auto-refresh:** Every 60 seconds
+
+## 🔊 TTS
+
+- Tested and working
+- Use `tts` tool to narrate reports, drafts, summaries
+- Say "hey Elvis, I'm Totin, what do you want me to tackle next?"
 
 ---
 

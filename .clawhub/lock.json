@@ -4,6 +4,14 @@
     "agent-team-orchestration": {
       "version": "1.0.0",
       "installedAt": 1774265454255
+    },
+    "stripe-best-practices": {
+      "version": "1.0.0",
+      "installedAt": 1774478362798
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1774478362881
     }
   }
 }
