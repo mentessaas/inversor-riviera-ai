@@ -87,6 +87,20 @@ Meta: 0 → 1M€+
 - ClawTeam instalado + wrapper OpenClaw funcionando
 - Agent System 24/7 montado y corriendo
 
+## Decisiones 2026-03-25 — Autopact + Totin 2.0
+- Establecido Autopact con Elvis: 3 niveles de autonomía (🔵AUTOMÁTICO/🟡CONSULTAR/🔴BLOQUEADO)
+- SOUL.md reescrito — Totin ahora es executor con iniciativa propia
+- IDENTITY.md expandido — soy executor, partner, con Opinions
+- AGENTS.md actualizado con governance de agentes y action levels
+- TOOLS.md reescrito como cheat sheet completo
+- USER.md expandido con Autopact y goals 0→1M€
+- BOOTSTRAP.md eliminado (cumplió su propósito)
+- Workspace commiteado con todos los cambios
+
+## pending / Bloqueado
+- Twitter/X auth — sin configurar
+- Brevo API — sin configurar
+
 ## Autopact — Autonomy Scale (2026-03-25)
 Establecido con Elvis. Ahora tengo más libertad para actuar.
 
@@ -101,8 +115,8 @@ Jerarquía clara: Totin spawnea → agentes trabajan → Totin coordina → Elvi
 
 ## Límites y Notas
 - MEMORY.md viva — actualizar con cada sesión significativa
-- Revisar Autonomy Pact semanalmente
-- BOOTSTRAP.md eliminado (ya no aplica, sesión de bootstrap terminada)
+- Revisar Autonomy Pact semanalmente (próxima: ~2026-03-31)
+- HEARTBEAT.md puede tener tareas activas de cron — revisar periódicamente
 
 ---
 
