@@ -83,11 +83,20 @@ Skills define _how_ tools work. This file is _my_ specifics — the stuff that's
 - **Features:** Agent status, tasks, system health, quick links
 - **Auto-refresh:** Every 60 seconds
 
-## 🔊 TTS
+## 🔊 TTS (Text-to-Speech)
 
-- Tested and working
-- Use `tts` tool to narrate reports, drafts, summaries
-- Say "hey Elvis, I'm Totin, what do you want me to tackle next?"
+**Configuración preferida:**
+- **Engine:** gTTS (Google TTS) — voz en español real
+- **Velocidad:** 1.3x (30% más rápido)
+- **Idioma:** español (es)
+- **Carpeta audio:** `~/.openclaw/workspace/dashboard/`
+- **Comando rápido:**
+  ```bash
+  python3 -c "from gtts import gTTS; tts = gTTS(text='texto', lang='es'); tts.save('archivo.mp3')"
+  ```
+- **Para enviar a Telegram:** guardar en dashboard/ y usar message tool con filePath
+
+**Nota:** macOS `say` tiene voces solo en inglés. gTTS da voz en español real.
 
 ---
 
