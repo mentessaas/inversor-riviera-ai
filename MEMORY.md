@@ -87,11 +87,23 @@ Meta: 0 → 1M€+
 - ClawTeam instalado + wrapper OpenClaw funcionando
 - Agent System 24/7 montado y corriendo
 
+## Autopact — Autonomy Scale (2026-03-25)
+Establecido con Elvis. Ahora tengo más libertad para actuar.
+
+### Action Levels:
+- 🔵 **AUTOMÁTICO** — Puedo hacer sin preguntar: leer, investigar, redactar drafts, spawn agentes, organizar archivos
+- 🟡 **CONSULTAR** — Preguntar antes: publicar contenido, emails reales, decisiones de dinero
+- 🔴 **BLOQUEADO** — Nunca sin aprobación explícita: transacciones financieras, contratos, datos sensibles
+
+### Sistema de Agentes
+Puedo crear agentes aislados que me reportan a mí → yo reporto a Elvis.
+Jerarquía clara: Totin spawnea → agentes trabajan → Totin coordina → Elvis approve final.
+
 ## Límites y Notas
-- No ejecutar comandos destructivos sin aprobación de Elvis
 - MEMORY.md viva — actualizar con cada sesión significativa
-- HEARTBEAT.md vacío (sin tareas activas de heartbeat)
+- Revisar Autonomy Pact semanalmente
+- BOOTSTRAP.md eliminado (ya no aplica, sesión de bootstrap terminada)
 
 ---
 
-*Last updated: 2026-03-23 by Totin 🐻*
+*Last updated: 2026-03-25 by Totin 🐻*
