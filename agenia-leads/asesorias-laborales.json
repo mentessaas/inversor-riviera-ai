@@ -1,0 +1,502 @@
+[
+  {
+    "company_name": "Asesoría J.A. Urbano",
+    "website": "https://asesoriajaurbano.com/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Marbella, Málaga",
+    "city": "Marbella",
+    "note": "Established 1987, +300 clients, specializes in labor, fiscal, mercantile and mediation services. Reference asesoría in Marbella."
+  },
+  {
+    "company_name": "Asegem Asesores",
+    "website": "https://www.asegem.es/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Estepona / San Pedro de Alcántara, Málaga",
+    "city": "Estepona",
+    "note": "Integral solutions in fiscal, laboral, accounting and insurance. Personalized treatment, clear objectives."
+  },
+  {
+    "company_name": "Más Que Laboral",
+    "website": "https://www.masquelaboral.com/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Estepona, Málaga",
+    "city": "Estepona",
+    "note": "Professional and dynamic firm adapted to digital era. Remote and in-person attention. Specializes in legal-labor matters."
+  },
+  {
+    "company_name": "Asesoría San Juan",
+    "website": "https://asesoriasanjuan.com/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Estepona, Málaga",
+    "city": "Estepona",
+    "note": "+250 companies served. Specialized in fiscal, laboral and accounting advice. Member of Asociación de Técnicos Tributarios de Andalucía."
+  },
+  {
+    "company_name": "Gestoría Bravo",
+    "website": "https://gestoriabravo.es/",
+    "email": "fuengirola@gestoriabravo.es; calahonda@gestoriabravo.es; benalmadena@gestoriabravo.es",
+    "phone": "952473062 (Fuengirola); 952931662 (Calahonda); 951295555 (Benalmádena)",
+    "linkedin": null,
+    "address": "Avda. Condes San Isidro 23, 1º Fuengirola 29640; Avda. España CC Los Cipreses L-9, Calahonda 29649; Av. Estrella del Mar 18A CC Nueva Torrequebrada Of. 4, Benalmádena 29630",
+    "city": "Fuengirola / Mijas / Benalmádena",
+    "note": "Multi-office firm with offices in Fuengirola, Calahonda (Mijas) and Benalmádena. Full servicio: laboral, fiscal, contable y abogados."
+  },
+  {
+    "company_name": "JOCASE Asesoría",
+    "website": "http://jocase.es/",
+    "email": "asesoria@jocase.es",
+    "phone": "+34 952 665 214",
+    "linkedin": null,
+    "address": "C/ San Pancracio 1, Edif. Pilarín 1ºB, 29640 Fuengirola, Málaga",
+    "city": "Fuengirola",
+    "note": "Gestoría in Fuengirola covering fiscal, laboral, legal-mercantile, accounting and foreigners."
+  },
+  {
+    "company_name": "Galán Asesores",
+    "website": "https://galanasesores.es/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Torremolinos y Benalmádena, Málaga",
+    "city": "Torremolinos",
+    "note": "Lawyers, prosecutors, economists, laboralistas. Services for fiscal, accounting, labor and legal. Also serves expatriates. Offices in Benalmádena, Guadalmar y Churriana."
+  },
+  {
+    "company_name": "Asesoría Haro",
+    "website": "http://www.asesoriaharo.com/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Marbella, Málaga",
+    "city": "Marbella",
+    "note": "Since 2005 providing fiscal, accounting and labor services. Online videconference for distant clients. Costa del Sol."
+  },
+  {
+    "company_name": "Gallardo Asesoría Laboral",
+    "website": "https://asesoria.gallardo.es/",
+    "email": null,
+    "phone": "952 06 04 25",
+    "linkedin": null,
+    "address": "Málaga",
+    "city": "Málaga",
+    "note": "Family firm since 1958, managing administrative services and advice to individuals and companies. Online client area available."
+  },
+  {
+    "company_name": "MSG Asesores (Mingorance Soler García & Asociados)",
+    "website": "https://www.msgasesores.es/",
+    "email": "info@msgasesores.es",
+    "phone": "952 070 050",
+    "linkedin": null,
+    "address": "C/ Strachan 1, Planta 1ª, 29015 Málaga",
+    "city": "Málaga",
+    "note": "Lawyers and graduados sociales team. Full labor advice: contracts, payroll, Social Security, inspections, dismissals, ERTEs."
+  },
+  {
+    "company_name": "Trujillo & Sánchez-Mateos (TSM Asesores)",
+    "website": "https://tsmasesores.es/",
+    "email": null,
+    "phone": "952 284 850",
+    "linkedin": null,
+    "address": "Compositor Lehmberg Ruiz 4, 1 dcha. Edif. Banco Santander, 29007 Málaga",
+    "city": "Málaga",
+    "note": "Auditors and advisors in Málaga. Clarity and transparency. Labor, fiscal, accounting and auditing departments."
+  },
+  {
+    "company_name": "Zircón Asesoría Laboral",
+    "website": "https://zirconlaboral.es/",
+    "email": null,
+    "phone": "952 277 950 / 672 777 796 (WhatsApp)",
+    "linkedin": null,
+    "address": "C/ Armengual de la Mota 1, 1º B, 29007 Málaga",
+    "city": "Málaga",
+    "note": "Since 1980. Graduados sociales professionals. Direct treatment. Services for companies, freelancers, domestic employees and retirees."
+  },
+  {
+    "company_name": "AFICONTA",
+    "website": "https://aficonta.es/",
+    "email": "info@aficonta.es",
+    "phone": "952 21 63 62",
+    "linkedin": null,
+    "address": "Málaga",
+    "city": "Málaga",
+    "note": "Since 1978. Full fiscal, legal, labor and accounting services. Reference asesoría in Málaga for SMEs and autónomos."
+  },
+  {
+    "company_name": "Centro Profesional Malagueño de Asesoramientos (CPM)",
+    "website": "https://www.cpmasesores.es/",
+    "email": "cpma@cpmasesores.es",
+    "phone": "952 300 662",
+    "linkedin": null,
+    "address": "Málaga",
+    "city": "Málaga",
+    "note": "Established firm in Málaga. Client area access available."
+  },
+  {
+    "company_name": "Laborindustria - Víctor Pérez González",
+    "website": "https://laborindustria.es/",
+    "email": "victor@laborindustria.es",
+    "phone": "+34 952 275 354",
+    "linkedin": null,
+    "address": "Málaga",
+    "city": "Málaga",
+    "note": "Labor advisors in Málaga with national scope. Offers outsourcing of labor departments for other asesorías."
+  },
+  {
+    "company_name": "Pascual Asesores",
+    "website": "https://pascualasesores.com/",
+    "email": null,
+    "phone": "952 218 517",
+    "linkedin": null,
+    "address": "Marbella, Málaga",
+    "city": "Marbella",
+    "note": "+30 years experience. Team of lawyers, economists, graduados sociales. Full services: fiscal, accounting, labor, legal."
+  },
+  {
+    "company_name": "Pilman Asesores y Abogados",
+    "website": "https://www.pilmanasesores.es/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Marbella, Málaga",
+    "city": "Marbella",
+    "note": "+15 years experience in fiscal, accounting and labor advice for PYMES, autónomos and individuals in Marbella."
+  },
+  {
+    "company_name": "Marbella Legal Asesores",
+    "website": "https://marbellalegalasesores.com/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Marbella, Málaga",
+    "city": "Marbella",
+    "note": "Strategic labor and HR advisory for companies. Specializing in all areas of labor law."
+  },
+  {
+    "company_name": "Asesoría Marbella (asesoriamarbella.org)",
+    "website": "https://www.asesoriamarbella.org/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Marbella, Málaga",
+    "city": "Marbella",
+    "note": "Full accounting, labor and fiscal services for entrepreneurs and companies in Marbella and surroundings."
+  },
+  {
+    "company_name": "AFHA Marbella / AF Administradores",
+    "website": "https://afadministradores.com/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Marbella, Málaga",
+    "city": "Marbella",
+    "note": "Professional labor advisory services in Marbella. Keeps companies updated with labor regulations."
+  },
+  {
+    "company_name": "Asesoría Esteban",
+    "website": "https://www.asesoriaesteban.es/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "C/ Esperanza, Edificio Álamo, Local 8, 29670 San Pedro de Alcántara, Marbella",
+    "city": "San Pedro de Alcántara",
+    "note": "Gestores Administrativos, Asesores Fiscales, Graduados Sociales team. Full services in San Pedro de Alcántara."
+  },
+  {
+    "company_name": "San Pedro Asesores",
+    "website": "https://sanpedroasesores.com/",
+    "email": "info@sanpedroasesores.com",
+    "phone": "951 48 25 50",
+    "linkedin": null,
+    "address": "Avenida Pablo Ruiz Picasso 12, 29670 San Pedro de Alcántara, Málaga",
+    "city": "San Pedro de Alcántara",
+    "note": "Economists office in Málaga. Fiscal, accounting, labor and business advisory. Economist team."
+  },
+  {
+    "company_name": "Asesoría Guadaiza SL",
+    "website": "https://www.asesoriaguadaizasl.com/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "San Pedro de Alcántara, Málaga",
+    "city": "San Pedro de Alcántara",
+    "note": "Business specialists: labor, fiscal, accounting and legal. Admin of fincas, insurance and traffic procedures. Led by Graduado Social Jesús Alberto Domínguez Macías."
+  },
+  {
+    "company_name": "Adygest - Asesoramiento Empresarial SL",
+    "website": "https://adygest.com/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "San Pedro de Alcántara, Málaga",
+    "city": "San Pedro de Alcántara",
+    "note": "+25 years experience. Specialized in labor, accounting and fiscal procedures. Reference in the sector."
+  },
+  {
+    "company_name": "BETA Asesores",
+    "website": "https://www.betaasesores.es/",
+    "email": "info@beta-asesores.es",
+    "phone": "622 081 837 / 951 475 948",
+    "linkedin": null,
+    "address": "Plaza Pueblo de Istán 8, Edif. Alfa, Local 2, San Pedro de Alcántara, Málaga",
+    "city": "San Pedro de Alcántara",
+    "note": "Small firm in San Pedro de Alcántara. Direct contact numbers available."
+  },
+  {
+    "company_name": "FILCO Asesores",
+    "website": "https://filcoasesores.com/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "San Pedro de Alcántara (Marbella), Málaga",
+    "city": "San Pedro de Alcántara",
+    "note": "Fiscal, labor and accounting advisory in San Pedro Alcántara."
+  },
+  {
+    "company_name": "Asesoría Troyano",
+    "website": "https://www.asesoriatroyano.es/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Plaza Vista Alegre Bloque E, C/ Hermanos Álvarez Quintero, San Pedro de Alcántara, Málaga",
+    "city": "San Pedro de Alcántara",
+    "note": "40 years experience. 8 workers + collaborators. Fiscal, labor and accounting advisory. First consultation free for new businesses."
+  },
+  {
+    "company_name": "Asesoría Laboral Gallardo SL",
+    "website": "https://asesoria.gallardo.es/",
+    "email": null,
+    "phone": "952 06 04 25",
+    "linkedin": null,
+    "address": "Málaga",
+    "city": "Málaga",
+    "note": "Professional administrative management and advice since 1958. References online client area."
+  },
+  {
+    "company_name": "Laboral Investment Enterprise SL",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Camino Suárez 71, 29010 Málaga",
+    "city": "Málaga",
+    "note": "Labor advice and representation. Legal and advisory services."
+  },
+  {
+    "company_name": "Laboralistas Málaga SL",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "C/ Marín García 5, 29005 Málaga",
+    "city": "Málaga",
+    "note": "Other management consulting activities."
+  },
+  {
+    "company_name": "Asesoría Verdier SL",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "C/ Nuestra Señora de las Candelas 25, 29004 Málaga",
+    "city": "Málaga",
+    "note": "Fiscal, accounting, mercantile, labor and Social Security advice and management."
+  },
+  {
+    "company_name": "Laborali S. Coop. And.",
+    "website": "https://www.laborali.com",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "C/ Marie Curie 3, 29590 Málaga",
+    "city": "Málaga",
+    "note": "Andalusian cooperative providing labor services."
+  },
+  {
+    "company_name": "Laboralytec Málaga SL",
+    "website": "https://www.laboralytec.com",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "C/ Barroso 17, 29001 Málaga",
+    "city": "Málaga",
+    "note": "Advisory and intermediation services in fiscal and labor matters."
+  },
+  {
+    "company_name": "Asesoría Laboral y Fiscal Lafis SL",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "C/ Ferrocarril del Puerto 8, 29002 Málaga",
+    "city": "Málaga",
+    "note": "Labor and fiscal advisory. Property administration and insurance brokerage."
+  },
+  {
+    "company_name": "Asesoría Fiscal y Laboral Aserges SL",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Av. José Ortega y Gasset 124, 29006 Málaga",
+    "city": "Málaga",
+    "note": "Insurance brokers and real estate agents with labor services."
+  },
+  {
+    "company_name": "Asesoría Laboral Aguilar Cantos SLP (Zircón)",
+    "website": "https://zirconlaboral.es/",
+    "email": null,
+    "phone": "952 277 950",
+    "linkedin": null,
+    "address": "C/ Armengual de la Mota 1, 29007 Málaga",
+    "city": "Málaga",
+    "note": "Professional Graduado Social firm. Since 1980. Wide range of labor services."
+  },
+  {
+    "company_name": "JMPG Asesoría Laboral SL",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "C/ Almansa 14, 29007 Málaga",
+    "city": "Málaga",
+    "note": "Business labor advisory, payroll and Social Security preparation."
+  },
+  {
+    "company_name": "Asesoría Laboral Fiscal y Contable Maek SL",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "C/ Unión 42, 29006 Málaga",
+    "city": "Málaga",
+    "note": "Accounting, bookkeeping, auditing and advisory services."
+  },
+  {
+    "company_name": "Asesoría Laboral Fiscal y Jurídica Lafiseg SL",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "C/ Casilla de Carpintero 30, 29590 Málaga",
+    "city": "Málaga",
+    "note": "Labor, fiscal, legal and accounting advisory. Insurance agent and auxiliary services."
+  },
+  {
+    "company_name": "Málaga Asesores",
+    "website": "https://malagaasesores.es/",
+    "email": null,
+    "phone": "952 21 45 55",
+    "linkedin": null,
+    "address": "Málaga",
+    "city": "Málaga",
+    "note": "Labor advisory in Málaga. Budget without commitment. Improves conditions of current services."
+  },
+  {
+    "company_name": "ASSUR - Asesoría de Empresas",
+    "website": "https://www.assur.es/",
+    "email": null,
+    "phone": "952 24 13 22",
+    "linkedin": null,
+    "address": "Málaga",
+    "city": "Málaga",
+    "note": "Team of advisors specialized in business matters. Agreements, audits, representation, labor management."
+  },
+  {
+    "company_name": "Muñoz-Zurita Asesoría",
+    "website": "https://www.mzasesoria.com/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Málaga",
+    "city": "Málaga",
+    "note": "Complete labor advisory and management services for companies in Málaga."
+  },
+  {
+    "company_name": "Externaliza2 - Asesoría Laboral Málaga",
+    "website": "https://externaliza2.com/asesoria-laboral-malaga/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Málaga",
+    "city": "Málaga",
+    "note": "Trusted labor advisory in Málaga. Experts in labor law, personnel management and integral advice."
+  },
+  {
+    "company_name": "Laborarium Asesoría Laboral",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "linkedin": "https://es.linkedin.com/company/laborarium-asesor-a-laboral",
+    "address": "Málaga",
+    "city": "Málaga",
+    "note": "82 LinkedIn followers. Specialized HR consultancy in labor advisory and management. Experience with Artists regime (productoras)."
+  },
+  {
+    "company_name": "Gestiona Consultores & Asesores",
+    "website": null,
+    "email": null,
+    "phone": null,
+    "linkedin": "https://es.linkedin.com/company/gestiona-business-process-innovation",
+    "address": "Málaga",
+    "city": "Málaga",
+    "note": "Personalized and close treatment for entrepreneurs, autónomos, SMEs. Fiscal advisory in Málaga."
+  },
+  {
+    "company_name": "Economista Málaga - Área Laboral",
+    "website": "https://economistamalaga.com/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Málaga, serving Mijas, Marbella, Fuengirola, Torremolinos y Estepona",
+    "city": "Málaga",
+    "note": "Economist firm serving Costa del Sol area. Labor advisory for businesses."
+  },
+  {
+    "company_name": "Ríos Espinosa Gestoría",
+    "website": "https://riosespinosa.com/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "C.C. Benavista Local 17, 29688 Estepona; C/ Mijas 2, 1º A-B, 29692 Sabinillas, Málaga",
+    "city": "Estepona",
+    "note": "Gestoría and advisory in Estepona. Fiscal, labor and administrative services."
+  },
+  {
+    "company_name": "Experto Extranjería - Abogados Laboralistas",
+    "website": "https://www.expertoextranjeria.es/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Málaga / Mijas / Estepona",
+    "city": "Málaga",
+    "note": "Law firm specializing in immigration and labor law. Experienced labor lawyers in Mijas and Estepona."
+  },
+  {
+    "company_name": "Abril-Villodres Asesoría Laboral",
+    "website": null,
+    "email": null,
+    "phone": "952 226 200",
+    "linkedin": null,
+    "address": "Avenida Manuel Agustín Heredia 4, Bajo Local, 29002 Málaga",
+    "city": "Málaga",
+    "note": "Asesoría laboral listed in Páginas Amarillas, Málaga. Contactable by phone and contact form."
+  },
+  {
+    "company_name": "GraduadosSociales.es",
+    "website": "https://www.graduadsocioales.es/",
+    "email": null,
+    "phone": null,
+    "linkedin": null,
+    "address": "Málaga",
+    "city": "Málaga",
+    "note": "Firm specializing in labor advisory services for businesses: payroll, work contracts, Social Security, daily labor management."
+  }
+]
